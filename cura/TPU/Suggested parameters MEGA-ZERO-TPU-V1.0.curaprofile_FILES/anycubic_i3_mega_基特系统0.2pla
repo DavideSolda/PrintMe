@@ -1,0 +1,22 @@
+[general]
+version = 4
+name = 基特系统0.3 TPU
+definition = anycubic_i3_mega
+
+[metadata]
+setting_version = 8
+type = quality_changes
+quality_type = high
+
+[values]
+acceleration_enabled = False
+adhesion_type = none
+default_material_bed_temperature = 0
+jerk_enabled = False
+layer_height = 0.2
+material_bed_temperature = 0
+material_bed_temperature_layer_0 = 0
+minimum_polygon_circumference = 0.8
+support_enable = False
+support_type = buildplate
+
